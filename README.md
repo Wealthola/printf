@@ -1,2 +1,1 @@
-# printf
-first partner task
+team work
